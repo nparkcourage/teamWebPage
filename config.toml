@@ -1,5 +1,5 @@
 baseurl = "https://nparkcourage.github.io/teamWebPage" # Configure URL. if using gh-pages https://github.com/<username>/hugo-universal-theme URL: https://<username>.github.io/hugo-universal-theme/
-title = "my team's page"
+title = "team page"
 theme = "hugo-universal-theme"
 # themesDir = "../.."
 languageCode = "en-us"
